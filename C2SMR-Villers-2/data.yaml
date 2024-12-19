@@ -1,0 +1,6 @@
+path: C:\Users\akric\OneDrive\Desktop\Tp IA\C2SMR-Villers-2
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: person
